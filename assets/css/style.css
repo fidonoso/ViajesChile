@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+html{
+    scroll-behavior: auto !important;
+}
+/*nabvar*/
+.navbar{
+    background-color: transparent;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+/*para no quedar detras del boton del carousel*/
+#correccion{
+    margin-right: 120px;
+}
+#icono-viaje{
+    width: 20px;
+}
+.division{
+    background-color:aqua;
+}
+section p{
+    color: white;
+}
+.parrafos{
+    font-family:"Cabin" ;
+   padding: 25px;
+    margin: auto;
+}
+.caja-iconos{
+background-color:aqua;;
+color: white;
+align-items: center;
+height: 35px;
+
+}
+.card{
+    background-color:aqua
+}
+.imagen-tarjeta{
+    height: 170px;
+}
+.card-body{
+    color: white;
+    height:230px
+}
+.card-title{
+    font-size:17px
+}
+.card-text{
+    font-size:13px;
+    margin-top:15px;
+}
+#formulario-cuerpo{
+    background-color:white;
+    height:400px;
+    margin-left: 40px;
+    margin-right:40px;
+}
+#formulario-cuerpo p{
+    padding-top: 200px;
+    font-size: 30px;
+}
+#footer{
+    background-color:aqua;
+}
+#footer a{
+    color:white;
+    text-decoration:none;
+}
