@@ -1,6 +1,8 @@
+/*agregar el fondo negro*/
 body{
     background-color: black;
 }
+/*desactivar el scroll smoth de bootstrap*/
 html{
     scroll-behavior: auto !important;
 }
@@ -29,6 +31,7 @@ html{
 section p{
     color: white;
 }
+/*modificar los parrafos*/
 .parrafos{
     font-family:"Cabin" ;
    padding: 25px;
@@ -68,6 +71,7 @@ height: 35px;
     padding-top: 200px;
     font-size: 30px;
 }
+/*fondo del footer*/
 #footer{
     background-color:aqua;
 }
